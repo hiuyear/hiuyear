@@ -55,7 +55,7 @@ Focus:
 
 # Connect with me! :) 
 
-LinkedIn: https://linkedin/hiuyear
+LinkedIn: https://linkedin/hiuyear.com
 
 Email: hiuyan.kwok@cs.utoronto.ca
 
