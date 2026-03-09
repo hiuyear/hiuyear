@@ -1,4 +1,5 @@
-# Hey, welcome to my page! I'm Hiu (she/her) 🌱😆
+# Hey, welcome to my page! 
+I'm Hiu (she/her) 🌱😆
 
 Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
@@ -55,7 +56,7 @@ Focus:
 
 # Connect with me! :) 
 
-LinkedIn: https://linkedin/hiuyear.com
+LinkedIn: https://linkedin/hiuyear.com](https://ca.linkedin.com/in/hiu-yan-kwok-14435625a
 
 Email: hiuyan.kwok@cs.utoronto.ca
 
