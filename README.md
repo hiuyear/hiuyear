@@ -6,9 +6,9 @@
 
 ---
 
-Interested in AI/ML, quantitative finance, and data-driven systems.
+Born & raised in Hong Kong. Interested in AI/ML, software engineering, and data-driven systems.
 
-Fun fact: I've always enjoyed math, and I only started coding in 2025!
+Fun fact: I started off in university in pure math — I only started coding in 2025!
 
 Currently:
 - Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
@@ -36,26 +36,24 @@ Focus:
 - Lineup optimization modeling
 - Interactive analytics dashboard
 
-# Interests 👀
+# Academic Interests / currently learning 👀
 
 - Artificial Intelligence & Machine Learning 🤖
-- Quantitative Finance 
 - Data Science & Analytics
 - Backend Systems
 - Mathematical Modeling 🧮
 - Algorithm Design
-
----
-
-# Currently Learning 📚
-
-- Machine Learning theory
-- Reinforcement learning
-- FastAPI and backend system design
 - Advanced probability and statistics
-- Algorithms and data structures
-
 ---
+
+# "Jack of all trades, master of none"  — I believe a life outside of work is crucial to success! 
+some of my many hobbies...
+- Scuba diving (getting my license this summer)🤿 
+- Long distance running (training for marathon 2026) 🏃🏻‍♀️
+- Photography (check out my photography account: instagram.com/hiuarchives) 📸 
+- Piano 🎹
+- Classical Music / Orchestra (did you know I was in a band/orchestra for over 7 years?)
+- Oil painting 🎨
 
 # Connect with me! :) 
 
