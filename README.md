@@ -1,8 +1,10 @@
 # Welcome, I'm Hiu (郭曉恩）🌱😆
 
-## Applied Mathematics (Specialist) + Computer Science (major) Student @ University of Toronto 👩🏻‍💻
+### Applied Mathematics (Specialist) + Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
 ### I'm also part of the FTL (focus in technology leadership) program under UofT DCS!
+
+---
 
 Interested in AI/ML, quantitative finance, and data-driven systems.
 
