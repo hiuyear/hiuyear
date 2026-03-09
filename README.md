@@ -3,11 +3,12 @@
 Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
 Interested in AI/ML, quantitative finance, and data-driven systems.
+
 Fun fact: I only started coding in 2025!
 
 Currently:
-- Data Analyst Co-op @ RBC (Client Data Team) 
-- Previously Risk Analyst Intern @ Sun Life
+- Data Analyst Co-op @ RBC (Client Data Team) - W26
+- Previously Risk Analyst Intern @ Sun Life - S25
 - Exploring machine learning, backend systems, and data engineering
 
 ---
