@@ -4,7 +4,7 @@ Applied Mathematics (Specialist) & Computer Science (major) Student @ University
 
 Interested in AI/ML, quantitative finance, and data-driven systems.
 
-Fun fact: I only started coding in 2025!
+Fun fact: I've always enjoyed math, and I only started coding in 2025!
 
 Currently:
 - Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
