@@ -1,4 +1,4 @@
-# Welcome, I'm Hiu (she/her) 🌱😆
+# Welcome, I'm Hiu (郭曉恩）🌱😆
 
 Applied Mathematics (Specialist) + Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
