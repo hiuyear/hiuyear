@@ -1,5 +1,4 @@
-# Hey, welcome to my page! 
-I'm Hiu (she/her) 🌱😆
+# Welcome, I'm Hiu (she/her) 🌱😆
 
 Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
