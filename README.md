@@ -1,4 +1,4 @@
-# Hi, I'm Hiu (she/her) 🌱
+# Hey, welcome to my page! I'm Hiu (she/her) 🌱😆
 
 Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
@@ -8,7 +8,10 @@ Fun fact: I only started coding in 2025!
 
 Currently:
 - Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
-- Previously Risk Analyst Intern @ Sun Life ☀️ - S25
+- Full-time student at UofT taking courses in Calculus and algorithms 📖
+
+Previously: 
+- Risk Analyst Intern @ Sun Life ☀️ - S25
 - Exploring machine learning, backend systems, and data engineering ⚙️
 
 ---
