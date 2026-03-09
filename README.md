@@ -1,11 +1,12 @@
-# Hi, I'm Hiu Yan (she/her) 🌱
+# Hi, I'm Hiu (she/her) 🌱
 
-Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto  👩🏻‍💻
+Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto 👩🏻‍💻
+
 Interested in AI/ML, quantitative finance, and data-driven systems.
 Fun fact: I only started coding in 2025!
 
 Currently:
-- Data Analyst Co-op @ RBC (Client Data Governance & Strategy)
+- Data Analyst Co-op @ RBC (Client Data Team) 
 - Previously Risk Analyst Intern @ Sun Life
 - Exploring machine learning, backend systems, and data engineering
 
