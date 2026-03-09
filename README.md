@@ -1,6 +1,6 @@
 # Welcome, I'm Hiu (she/her) 🌱😆
 
-Applied Mathematics (Specialist) & Computer Science (major) Student @ University of Toronto 👩🏻‍💻
+Applied Mathematics (Specialist) + Computer Science (major) Student @ University of Toronto 👩🏻‍💻
 
 Interested in AI/ML, quantitative finance, and data-driven systems.
 
