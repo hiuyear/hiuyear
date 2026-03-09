@@ -7,15 +7,15 @@ Interested in AI/ML, quantitative finance, and data-driven systems.
 Fun fact: I only started coding in 2025!
 
 Currently:
-- Data Analyst Co-op @ RBC (Client Data Team) - W26
-- Previously Risk Analyst Intern @ Sun Life - S25
-- Exploring machine learning, backend systems, and data engineering
+- Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
+- Previously Risk Analyst Intern @ Sun Life ☀️ - S25
+- Exploring machine learning, backend systems, and data engineering ⚙️
 
 ---
 
-# Projects
+# Major Projects 🌻
 
-### Cybermetrics
+### Cybermetrics ⚾️
 Baseball analytics platform designed to evaluate lineup synergy and player performance using data science and machine learning.
 
 Tech:
@@ -29,35 +29,18 @@ Focus:
 - Lineup optimization modeling
 - Interactive analytics dashboard
 
----
+# Interests 👀
 
-### MARL Convergence Experiments
-Multi-agent reinforcement learning experiments studying convergence properties in simple game environments such as Matching Pennies.
-
-Focus:
-- Reinforcement learning dynamics
-- Learning rate and noise analysis
-- Strategy evolution
-
-Tech:
-- Python
-- NumPy
-- Matplotlib
-
----
-
-# Interests
-
-- Artificial Intelligence & Machine Learning
-- Quantitative Finance
+- Artificial Intelligence & Machine Learning 🤖
+- Quantitative Finance 
 - Data Science & Analytics
 - Backend Systems
-- Mathematical Modeling
+- Mathematical Modeling 🧮
 - Algorithm Design
 
 ---
 
-# Currently Learning
+# Currently Learning 📚
 
 - Machine Learning theory
 - Reinforcement learning
@@ -67,8 +50,10 @@ Tech:
 
 ---
 
-# Connect
+# Connect with me! :) 
 
 LinkedIn: https://linkedin/hiuyear
+
 Email: hiuyan.kwok@cs.utoronto.ca
+
 GitHub: https://github.com/hiuyear
