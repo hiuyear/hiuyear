@@ -46,7 +46,7 @@ Focus:
 - Advanced probability and statistics
 ---
 
-# "Jack of all trades, master of none"  — I believe a life outside of work is crucial to success! 
+# "Jack of all trades, master of none"  — more about me ...
 some of my many hobbies...
 - Scuba diving (getting my license this summer)🤿 
 - Long distance running (training for marathon 2026) 🏃🏻‍♀️
