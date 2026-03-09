@@ -11,12 +11,12 @@ Born & raised in Hong Kong. Interested in AI/ML, software engineering, and data-
 Fun fact: I started off in university in pure math — I only started coding in 2025!
 
 Currently:
-- Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
+- Full-time Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
 - Full-time student at UofT taking courses in Calculus and algorithms 📖
+- Exploring machine learning, backend systems, and data engineering ⚙️
 
 Previously: 
 - Risk Analyst Intern @ Sun Life ☀️ - S25
-- Exploring machine learning, backend systems, and data engineering ⚙️
 
 ---
 
@@ -50,7 +50,7 @@ Focus:
 some of my many hobbies...
 - Scuba diving (getting my license this summer)🤿 
 - Long distance running (training for marathon 2026) 🏃🏻‍♀️
-- Photography (check out my photography account: instagram.com/hiuarchives) 📸 
+- Photography (check out my photography account: https://instagram.com/hiuarchives) 📸 
 - Piano 🎹
 - Classical Music / Orchestra (did you know I was in a band/orchestra for over 7 years?)
 - Oil painting 🎨
