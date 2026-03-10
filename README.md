@@ -59,6 +59,6 @@ some of my many hobbies...
 
 LinkedIn: https://ca.linkedin.com/in/hiu-yan-kwok-14435625a
 
-Email: hiuyan.kwok@cs.utoronto.ca
+Email: hiuyankwok@cs.toronto.edu
 
 GitHub: https://github.com/hiuyear
