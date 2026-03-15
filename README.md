@@ -8,7 +8,7 @@
 
 Born & raised in Hong Kong. Interested in AI/ML, software engineering, and data-driven systems.
 
-Fun fact: I started off in university in pure math — I only started coding in 2025!
+Fun fact: I began university with the intention of heading into medicine — I only started coding in 2025!
 
 Currently:
 - Full-time Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
@@ -24,6 +24,7 @@ Previously:
 
 ### Cybermetrics ⚾️
 Baseball analytics platform designed to evaluate lineup synergy and player performance using data science and machine learning.
+A project done under the FTL program working with a startup.
 
 Tech:
 - React (TypeScript)
@@ -46,7 +47,7 @@ Focus:
 - Advanced probability and statistics
 ---
 
-# "Jack of all trades, master of none"  — more about me ...
+# "A jack of all trades is a master of none, but oftentimes better than a master of one"  — more about me ...
 some of my many hobbies...
 - Scuba diving (getting my license this summer)🤿 
 - Long distance running (training for marathon 2026) 🏃🏻‍♀️
