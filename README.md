@@ -10,12 +10,14 @@ Born & raised in Hong Kong. Interested in AI/ML, software engineering, and data-
 
 Fun fact: I began university with the intention of heading into medicine — I only started coding in 2025!
 
-Currently:
-- Full-time Data Analyst Co-op @ RBC (Client Data Team) 🏦 - W26
-- Full-time student at UofT taking courses in Calculus and algorithms 📖
+Currently (Summer 2026):
+- Research intern @ [The Matter Lab](https://github.com/aspuru-guzik-group), mentored by [Jiaru Bai](https://github.com/jb2197)
+- Software Developer for Dept. of Computer Science, [CAVE project](https://github.com/CA-Visualizer-for-Education/Clean-Architecture-Visualizer)
+- Part-time student @ UofT studying Intro to ML + Statistics
 - Exploring machine learning, backend systems, and data engineering ⚙️
 
 Previously: 
+- Data Analyst Intern @ RBC - W26
 - Risk Analyst Intern @ Sun Life ☀️ - S25
 
 ---
