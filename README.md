@@ -4,7 +4,7 @@
 
 ---
 
-_Psttt... my new website is up! Learn more about me [here](portfolio-hiuyan.vercel.app/)_
+Psttt... my new website is up! Learn more about me [here](https://portfolio-hiuyan.vercel.app/)
 
 Fun fact: I began university with the intention of heading into medicine — I only started coding in 2025!
 
