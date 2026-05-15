@@ -4,7 +4,7 @@
 
 ---
 
-[Psttt... my new website is up! Learn more about me [here](portfolio-hiuyan.vercel.app/)]
+_Psttt... my new website is up! Learn more about me [here](portfolio-hiuyan.vercel.app/)_
 
 Fun fact: I began university with the intention of heading into medicine — I only started coding in 2025!
 
