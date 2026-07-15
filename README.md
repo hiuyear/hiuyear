@@ -6,11 +6,11 @@
 
 <p><strong>Computer Science @ University of Toronto</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CS+%7C+Math+%7C+Physics+Student.;Currently+researching+on+Agentic+Systems.;Building+from+first+principles.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CS+%7C+Math+%7C+Statistics+Student.;Currently+researching+on+Agentic+Systems.;Building+from+first+principles.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F0F23?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://portfolio-hiuyan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F0F23?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://hiuyankwok.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0F23?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/hiu-yan-kwok-14435625a/)
 [![Email](https://img.shields.io/badge/Email-0F0F23?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:hiuyankwok@cs.toronto.edu)
 
