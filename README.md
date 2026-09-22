@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=header" width="100%"/>
 
-<h1>Hi, my name is Hiu! Thanks for dropping by :) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" /></h1>
+<h1>Hi, I'm Hiu! Thanks for dropping by :) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" /></h1>
 
 <p><strong>Computer Science, Math, Statistics @ University of Toronto</strong></p>
 
 <p>
-I'm currently doing research on controlled probing frameworks for deep neural networks, with a focus on transformer-based models. I'm also leading the development and research of the agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>.
+I'm currently doing research on controlled probing frameworks for deep neural networks, with a focus on transformer-based models. I'm also been researching on agentic memory, as well as leading the development of an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>.
 </p>
 
 <p>
-I started off in pure math because I genuinely enjoyed the problem-solving and logic behind the subject. The moment I learned to code, I realized there was so much more impact I could have by building things, and ever since, I’ve been drawn to work that turns abstract ideas into useful systems. I care a lot about understanding systems deeply, not just using them as black boxes, and I’m especially interested in the reasoning, structure, and design choices behind how things work.
+I started off in pure math, where I learned to think carefully about structure, logic, and first principles. Since learning to code, I’ve been drawn to engineering work that starts from a deep understanding of the problem, because I think the best systems are built from clear foundations.
 </p>
 
 <p>
