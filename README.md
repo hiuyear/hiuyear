@@ -7,7 +7,7 @@
 <p><strong>Computer Science, Math, Statistics @ University of Toronto</strong></p>
 
 <p>
-I'm currently doing research on controlled probing frameworks for deep neural networks, with a focus on transformer-based models. I'm also been researching on agentic memory, as well as leading the development of an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>.
+I'm currently doing research on controlled probing frameworks for deep neural networks, with a focus on transformer-based models. I'm also been researching on agentic memory, leading the design, the development, the evaluation, to the benchmark of an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>.
 </p>
 
 <p>
