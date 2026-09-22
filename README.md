@@ -2,11 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=header" width="100%"/>
 
-<h1>Hiu Yan Kwok <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" /></h1>
+<h1>Hi, my name is Hiu! Thanks for dropping by :) <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" /></h1>
 
-<p><strong>Computer Science @ University of Toronto</strong></p>
+<p><strong>Computer Science, Math, Statistics @ University of Toronto</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CS+%7C+Math+%7C+Statistics+Student.;Currently+researching+on+Agentic+Systems.;Building+from+first+principles.)](https://git.io/typing-svg)
+<p>
+I'm currently doing research on controlled probing frameworks for deep neural networks, with a focus on transformer-based models. I'm also leading the development and research of the agentic memory subsystem behind El Agente at The Matter Lab, under Prof. Alan Aspuru-Guzik.
+</p>
+
+<p>
+I started off in pure math because I genuinely enjoyed the problem-solving and logic behind the subject. The moment I learned to code, I realized there was so much more impact I could have by building things, and ever since, I’ve been drawn to work that turns abstract ideas into useful systems.
+</p>
+
+<p>
+Most of my favorite work is either under NDA or in private repositories, but I hope you enjoy the small projects I've set aside time to share here! ^^
+</p>
 
 <br/>
 
