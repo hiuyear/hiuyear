@@ -15,7 +15,7 @@ I started off in pure math, where I learned to think carefully about structure, 
 </p>
 
 <p>
-Most of my favorite work is either under NDA or in private repositories, but I hope you enjoy the small projects I've set aside time to share here! ^^
+Most of my favorite work is either under NDA or in private repositories (papers coming soon 👀), but I hope you enjoy the small projects I've set aside time to share here! ^^
 </p>
 
 <br/>
