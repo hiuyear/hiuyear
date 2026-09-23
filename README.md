@@ -7,17 +7,16 @@
 <p><strong>Computer Science, Math, Statistics @ University of Toronto </strong></p>
 
 <p>
-I'm currently doing research on controlled probing frameworks for deep neural networks, with a focus on transformer-based models. I've also been researching on agentic memory – leading the design & development of the infrastructure, evaluation harness, and a whole benchmark for an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>.
+I'm currently researching agentic memory, leading the design and development of the memory infrastructure, evaluation harness, and the whole benchmark for an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>. As of September 2026, I've also taken a new role of researching controlled probing frameworks for deep neural networks, with a focus on transformer-based models. 
 </p>
 
 <p>
-I started off in pure math, where I learned to think carefully about structure, logic, and first principles. Since learning to code, I’ve been drawn to engineering work that starts from a deep understanding of the problem, because I truly believe that the best systems are built from clear foundations.
+I started off in pure math, spending hours studying theorem proofs and learning to think carefully about structure, logic, and first principles. Since learning to code, I’ve been drawn to engineering work that starts from a deep understanding of the problem, because I believe the best systems are built from clear foundations.
 </p>
 
 <p>
 Most of my favorite work is either under NDA or in private repositories (papers coming soon 👀), but I hope you enjoy the small projects I've set aside time to share here! ^^
 </p>
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F0F23?style=for-the-badge&logo=vercel&logoColor=A855F7)](https://hiuyankwok.vercel.app/)
