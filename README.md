@@ -7,7 +7,7 @@
 <p><strong>Computer Science, Math, Statistics @ University of Toronto </strong></p>
 
 <p>
-I'm currently researching agentic memory, designing and developing part of the memory infrastructure, evaluation harness, and the whole benchmark for an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>. As of September 2026, I've also taken a new role of developing a Pytorch framework for controlled probing frameworks for deep neural networks, with a focus on transformer-based models, under <a href="[https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en](https://www.cs.toronto.edu/~sven/)">Prof. Sven Dickinson</a>. 
+I'm currently researching agentic memory, designing and developing part of the memory infrastructure, evaluation harness, and the whole benchmark for an agentic memory subsystem behind <a href="https://elagente.ca/about">El Agente</a> at <a href="https://www.matter.toronto.edu/">The Matter Lab</a>, under <a href="https://scholar.google.ca/citations?user=Ag_6KEgAAAAJ&hl=en">Prof. Alan Aspuru-Guzik</a>. As of September 2026, I've also taken a new role of developing a Pytorch framework for controlled probing frameworks for deep neural networks, with a focus on transformer-based models, under <a href="https://www.cs.toronto.edu/~sven/">Prof. Sven Dickinson</a>. 
 </p>
 
 <p>
