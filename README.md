@@ -11,6 +11,10 @@ I'm currently researching agentic memory, designing and developing part of the m
 </p>
 
 <p>
+In terms of previous industry work experience, I've worked at the Royal Bank of Canada and Sun Life Financial within the past two years.
+</p>
+
+<p>
 I started off in pure math, spending hours studying theorem proofs and learning to think carefully about structure, logic, and first principles. Since learning to code, I’ve been drawn to engineering work that starts from a deep understanding of the problem, because I believe the best systems are built from clear foundations.
 </p>
 
