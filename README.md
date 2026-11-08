@@ -11,7 +11,7 @@ I'm currently researching agentic memory, designing and developing part of the m
 </p>
 
 <p>
-In terms of previous industry work experience, I've worked at the Royal Bank of Canada and Sun Life Financial within the past two years.
+In terms of industry work experience: I'm an incoming SWE intern @ Mozilla Firefox, currently working on an industry collaboration project with AMD, & I've worked at the Royal Bank of Canada and Sun Life Financial previously as well!
 </p>
 
 <p>
